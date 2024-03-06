@@ -41,8 +41,8 @@ async def start(event):
         link_preview=False,
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
-            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/BRANDED_WORLD"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/BRANDRD_BOT")],
-            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/BRANDEDKING82")]
+            [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/money_haterz_chatting_group"), Button.url("❤️‍🔥 ᴏᴡɴᴇʀ 💫", "https://t.me/Slayer_Honey_XD")],
+            [Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/Slayerr_Honey_XD"), Button.url("⚡ ʜᴏɴᴇʏ ⚡", "https://t.me/Slayer_Honey_XD")]
         ]
     )
 
